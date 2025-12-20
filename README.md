@@ -1,4 +1,3 @@
-# Welcome - مرحباً
 
 <img src="7NKA.png" alt="logo" width="500px" />
 

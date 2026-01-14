@@ -24,7 +24,10 @@ Multaqa Al-hinkah is an Arabic community on Discord and formerly (Twitter/X) wit
 ### For more
 See [Stacks The NULLS](https://stacksthenulls.netlify.app) the techinical company of 7nka group , Check accounts :
 
+- [Github](https://github.com/7nka-group)
 - [X.com](https://x.com/no_mohanek)
 - [Youtube](https://youtube.com/channel/@ملتقىالحنكة)
+- [Steam Group](https://steamcommunity.com/groups/al7nkagroup)
+- [Itch.io](https://7nkagroup.itch.io)
 
 #### THX for your time XD
